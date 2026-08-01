@@ -116,18 +116,6 @@
 
 ---
 
-## 🎯 2026 Goals
-
-- ✅ Master JavaScript
-- ✅ Learn React.js
-- ✅ Complete the MERN Stack
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 20+ Real-World Projects
-- ✅ Learn Advanced Machine Learning
-- ✅ Contribute to Open Source
-- ✅ Crack Software Development Internships
-
----
 
 ## 📫 Connect With Me
 
